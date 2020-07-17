@@ -1,0 +1,23 @@
+
+h1
+{
+
+color :  rgb(233, 5, 73) ; 
+text-decoration:rgb(112, 91, 91);
+
+
+}
+
+a:visited {
+
+   color:pink ;
+
+}
+.grid 
+{
+
+display:flex ;
+flex-wrap: wrap ; 
+justify-content:space-evenly;
+flex-direction: row ;
+}
